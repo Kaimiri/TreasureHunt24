@@ -1,0 +1,4 @@
+baseURL = 'https://familytreasurehunt24.netlify.app/'
+languageCode = 'en-us'
+title = 'Family Treasure Hunt 2024 🎄'
+theme = 'PaperMod'
